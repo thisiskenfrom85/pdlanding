@@ -1,0 +1,16 @@
+Slider text
+  Title
+    Your Concierge to Data Driven Decision Making
+  Subtitle
+    We are a data enablement consulting service who love everything data. We collaborate closely with our clients to enable their success on the data driven transformation journey
+
+About text
+
+
+Service
+
+strategy
+user centered
+problem first
+agile
+test driven development

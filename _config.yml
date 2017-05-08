@@ -17,7 +17,7 @@
 title: PairData
 subtitle: "Data Enablement Consulting Services"
 email: ken.li@pairdata.io
-description: PairData is a data enablement consulting service that collobrates with clients to cultivate data driven culture by aligning data strategies with disciplines, practices, and technologies. We believe in knowledge sharing over individual expertise, people over technologies, disciplines over processes.
+description: PairData is a data enablement consulting service that collaborates with clients to cultivate data driven culture by aligning data strategies with disciplines, practices, and technologies. We believe in knowledge sharing over individual expertise, people over technologies, disciplines over processes.
 url: "http://www.pairdata.io" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/
 cover: "/assets/cover.png"

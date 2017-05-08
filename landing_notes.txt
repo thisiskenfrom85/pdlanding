@@ -2,15 +2,34 @@ Slider text
   Title
     Your Concierge to Data Driven Decision Making
   Subtitle
-    We are a data enablement consulting service who love everything data. We collaborate closely with our clients to enable their success on the data driven transformation journey
+    We are a data enablement consulting service that loves everything data. We collaborate closely with our clients to enable their success on the data driven transformation journey
 
 About text
 
+People before Technologies
+
+
+Technology products could only go so far in solving an organization's business problems if we didn't pay attention to the humans using them. PairData focuses on the human factor of every solution, from workflow to processes, practices to disciplines, strategies to culture. We believe cultivating a healthy data driven culture allows our clients to gain insights faster and lower the total cost of ownership on technology products.
+
+
+
+Just as software development
+
+Our Process
+we believe understanding the core problem is the first step to solution
+
+
+touchpoint
+
+user centered
+problem first
+agile
+tdd
 
 Service
 
 strategy
-user centered
-problem first
-agile
-test driven development
+mdm
+data warehouse infrastructure
+story telling
+enablement

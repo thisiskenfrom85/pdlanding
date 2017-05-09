@@ -33,3 +33,6 @@ mdm
 data warehouse infrastructure
 story telling
 enablement
+
+
+color: linear-gradient(to left, rgba(49, 112, 143, 0.79), #322e40)

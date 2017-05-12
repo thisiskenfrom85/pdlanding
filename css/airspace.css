@@ -85,8 +85,8 @@ a:active {
   right: 0;
   width: 100%;
   height: 100%;
-  background: linear-gradient(to left, #8b86a3, #322e40);
-  opacity: 0.8;
+  background: linear-gradient(to top left, rgba(110, 77, 154, 0.7) , rgba(29, 22, 47, 0.9) 70%);
+  opacity: 0.9;
 }
 #slider .block {
   color: #E3E3E4;
@@ -96,7 +96,7 @@ a:active {
   font-weight: 100;
   font-size: 50px;
   line-height: 60px;
-  letter-spacing: 5px;
+  letter-spacing: 8px;
   padding-bottom: 45px;
 }
 #slider .block p {
@@ -148,7 +148,7 @@ a:active {
 #service .service-item h4 {
   padding-top: 20px;
   margin: 0;
-  color: #655e7a;
+  color: #1581ce;
 }
 #service .service-item p {
   color: #737373;
@@ -163,7 +163,7 @@ a:active {
 #call-to-action {
   background: url("../img/call-to-action-bg.jpg") no-repeat;
   background-size: cover;
-  background-attachment: fixed;
+  /* background-attachment: fixed; */
   padding: 70px 0px;
   position: relative;
   text-align: center;
@@ -178,7 +178,7 @@ a:active {
   bottom: 0;
   width: 100%;
   height: 100%;
-  background: #1d192c;
+  background: linear-gradient(to left, rgba(110, 77, 154, 0.7) , rgba(29, 22, 47, 0.9));
   opacity: 0.8;
 }
 #call-to-action h2 {
@@ -194,10 +194,11 @@ a:active {
 .btn-call-to-action {
   padding: 15px 35px;
   border: none;
-  background-color: #fff;
+  background-color: #1581ce;
   font-size: 15px;
-  color: #333333;
+  color: #ffffff;
   margin-top: 30px;
+  font-weight: 900;
 }
 /*--
 	Feature Start
@@ -234,7 +235,7 @@ a:active {
   margin-bottom: 20px;
 }
 #feature .btn-view-works {
-  background: #655E7A;
+  background: #1581ce;
   color: #fff;
   padding: 10px 20px;
 }
@@ -776,4 +777,3 @@ footer .footer-manu ul li a {
 }
 footer .footer-manu ul li a:hover {
   color: #000;
-}

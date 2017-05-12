@@ -3,7 +3,7 @@
     margin-bottom: 0;
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    background-color:  rgba(167, 167, 167, 0.95);
+    background:linear-gradient(to left, rgba(49, 112, 143, 0.9), rgba(59, 66, 74, 0.9));
 }
 
 .navbar-custom .navbar-brand {
@@ -60,7 +60,7 @@
 
     .top-nav-collapse {
         padding: 0;
-        background-color: rgba(167, 167, 167, 0.95);
+        background: linear-gradient(to left, rgba(110, 77, 154, 0.7) , rgba(29, 22, 47, 0.9));
     }
 
     .navbar-custom.top-nav-collapse {

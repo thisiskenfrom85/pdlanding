@@ -75,6 +75,7 @@ a:active {
   background-position: 10% 0%;
   padding: 200px 0 280px 0;
   position: relative;
+  margin-top:-1px;
 }
 #slider:before {
   content: "";

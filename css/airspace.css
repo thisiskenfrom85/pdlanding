@@ -73,9 +73,10 @@ a:active {
   background-size: cover;
   background-attachment: fixed;
   background-position: 10% 0%;
-  padding: 200px 0 280px 0;
+  padding: 230px 0 280px 0;
   position: relative;
   margin-top:-1px;
+  height: 100vh;
 }
 #slider:before {
   content: "";
@@ -86,7 +87,7 @@ a:active {
   right: 0;
   width: 100%;
   height: 100%;
-  background: linear-gradient(to top left, rgba(110, 77, 154, 0.7) , rgba(29, 22, 47, 0.9) 70%);
+  background: linear-gradient(to top left, rgba(172, 121, 239, 0.7) , rgba(29, 22, 47, 0.9) 70%);
   opacity: 0.9;
 }
 #slider .block {
@@ -225,6 +226,18 @@ a:active {
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
   padding: 100px 0;
+}
+#feature:before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(to left, rgba(255, 255, 255,1) , rgba(93, 93, 93, 0.9) 80%);
+    opacity: 0.2;
 }
 #feature h2 {
   font-size: 28px;
